@@ -51,4 +51,11 @@ Criar arquivo greenbone.conf
 
 Acesse em seu navegador com usuário e senha admin.
 http://IP_SERVIDOR:9392
+![image](https://github.com/user-attachments/assets/b1cb88d1-61a8-472b-a7ba-15bd508bfb81)
+
+![image](https://github.com/user-attachments/assets/1e9bd38b-d5a6-48fd-98ff-134f229908c4)
+
+
+
+
 
